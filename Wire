@@ -1,5 +1,0 @@
-module top_module( input in, output out );
-    
-    assign out=in; // wires are directional, hence "assign in = out" will not work here
-
-endmodule
